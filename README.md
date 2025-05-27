@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100021743444362">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="40" />
   </a>
 </p>
 
