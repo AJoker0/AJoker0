@@ -5,7 +5,7 @@
 
 
 
-### 📈 My latest project: Extramus
+ 📈 My latest project: Extramus
 
 <table><tr>
 <td>
@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ My stack
+## My stack
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
