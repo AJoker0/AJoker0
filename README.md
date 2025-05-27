@@ -6,8 +6,6 @@
 
 </div>
 
-* 📈 My latest project: [Extramus](https://github.com/AJoker0/extramus)
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AJoker0&show_icons=true&theme=github_dark&hide_title=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJoker0&layout=compact&theme=github_dark" />
