@@ -8,7 +8,7 @@
 
 ---
 
-### 📈 My latest project: [Pixels](https://github.com/AJoker0/pixels)
+### 📈 My latest project: Extramus
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJoker0&theme=github_dark" />
@@ -44,10 +44,10 @@
 
 ### 👥 Connect with me
 <p>
-  <a href="https://www.linkedin.com/in/yourlinkedin/">
+  <a href="(https://www.linkedin.com/in/andrii-titkov-0b1b40356/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://facebook.com/yourusername">
+  <a href="https://www.facebook.com/profile.php?id=100021743444362">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
 </p>
@@ -56,14 +56,12 @@
 
 ### 📊 GitHub Contributions
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AJoker0&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AJoker0&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
-
-> 🔗 Заменить `yourusername` на свой GitHub username!
 
