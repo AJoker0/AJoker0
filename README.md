@@ -35,7 +35,7 @@
 
 ---
 
-### 👥 Connect with me
+### Connect with me
 <p>
   <a href="(https://www.linkedin.com/in/andrii-titkov-0b1b40356/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -45,9 +45,6 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Contributions
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AJoker0&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
