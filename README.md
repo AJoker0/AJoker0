@@ -10,10 +10,6 @@
 
 ### 📈 My latest project: Extramus
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJoker0&theme=github_dark" />
-</div>
-
 <table><tr>
 <td>
   <img src="https://github-readme-stats.vercel.app/api?username=AJoker0&show_icons=true&theme=github_dark&hide_title=true" />
