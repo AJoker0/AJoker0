@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Andrii Titkov
-
+---
 ### Full Stack Developer
-
+---
 - 📍 Based in Europe  
 - ✨ I’m currently working on: **Movie Book App**  
 - 📋 I’m currently learning **Next.js, TypeScript and Tailwind CSS**  
