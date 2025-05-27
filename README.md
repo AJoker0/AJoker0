@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi 👋, I'm Andrii Titkov
+## Hi 👋, I'm Andrii Titkov
 
 ### Full Stack Developer
 
