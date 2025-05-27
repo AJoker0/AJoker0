@@ -5,22 +5,21 @@
 - 📍 Based in Europe  
 - ✨ I’m currently working on: **Movie Book App**  
 - 📋 I’m currently learning **Next.js, TypeScript and Tailwind CSS**  
-- 📞 Telegram: [@yourusername](https://t.me/yourusername)  
 
 ---
 
-### 📈 My latest project: [Pixels](https://github.com/yourusername/pixels)
+### 📈 My latest project: [Pixels](https://github.com/AJoker0/pixels)
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJoker0&theme=github_dark" />
 </div>
 
 <table><tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AJoker0&show_icons=true&theme=github_dark&hide_title=true" />
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJoker0&layout=compact&theme=github_dark" />
 </td>
 </tr></table>
 
