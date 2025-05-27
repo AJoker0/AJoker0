@@ -2,8 +2,8 @@
 
 ### Full Stack Developer
 
-- 📍 Based in Europe  
----
+
+
 
 ### 📈 My latest project: Extramus
 
