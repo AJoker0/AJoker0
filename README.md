@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi 👋, I'm Andrii Titkov
+### Hi 👋, I'm Andrii Titkov
 
 ### Full Stack Developer
 
@@ -13,12 +13,12 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJoker0&layout=compact&theme=github_dark" />
 </p>
 
-## My stack
+### My stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,redux,nodejs,html,css,sass,git,github,bash" />
 </p>
 
-## Connect with me
+### Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/andrii-titkov-0b1b40356/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="40" />
