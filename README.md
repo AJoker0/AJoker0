@@ -4,34 +4,25 @@
 
 ### Full Stack Developer
 
-📈 My latest project: [Extramus](https://github.com/AJoker0/extramus)
-
 </div>
-<!--
-<table align="center"> <tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=AJoker0&show_icons=true&theme=github_dark&hide_title=true" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJoker0&layout=compact&theme=github_dark" />
-</td>
-</tr> </table>
--->
+
+* 📈 My latest project: [Extramus](https://github.com/AJoker0/extramus)
+
+
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AJoker0&show_icons=true&theme=github_dark&hide_title=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJoker0&layout=compact&theme=github_dark" />
 </p>
 
----
-
-## 🛠️ My stack
+## My stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,redux,nodejs,html,css,sass,git,github,bash" />
 </p>
 
 ---
 
-## 👥 Connect with me
+## Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/andrii-titkov-0b1b40356/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
