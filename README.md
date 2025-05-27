@@ -21,7 +21,7 @@
 ## Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/andrii-titkov-0b1b40356/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="40" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100021743444362">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" height="40" />
