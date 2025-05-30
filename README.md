@@ -7,8 +7,10 @@
 </div>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AJoker0&show_icons=true&theme=github_dark&hide_title=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJoker0&layout=compact&theme=github_dark" />
+  <!-- Основная статистика -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AJoker0&show_icons=true&theme=dark" />
+  <!-- Топ языков -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJoker0&layout=compact&theme=dark" />
 </p>
 
 ### My stack
@@ -27,5 +29,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AJoker0&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <!-- Streak (подряд идущие дни активности) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AJoker0&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
