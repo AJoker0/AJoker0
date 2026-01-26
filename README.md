@@ -1,7 +1,6 @@
 <div align="center">
 
 ## Hi 👋, I'm Andrii Titkov
-
 ### Full Stack Developer
 
 </div>
@@ -27,5 +26,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=AJoker0&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com/?user=AJoker0&theme=dark" alt="GitHub Streak" />
 </p>
