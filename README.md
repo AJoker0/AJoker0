@@ -1,14 +1,15 @@
 <div align="center">
 
 ## Hi 👋, I'm Andrii Titkov
-
 ### Full Stack Developer
 
 </div>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AJoker0&show_icons=true&theme=dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJoker0&layout=compact&theme=dark" />
+  <!-- Основная статистика -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AJoker0&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
+  <!-- Топ языков -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJoker0&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
 </p>
 
 ### My stack
@@ -22,10 +23,16 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100021743444362">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" height="40" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=AJoker0&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=AJoker0&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AJoker0&theme=github-dark&hide_border=true&bg_color=0D1117" />
 </p>
