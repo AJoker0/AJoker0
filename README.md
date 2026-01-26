@@ -30,5 +30,5 @@
 
 <p align="center">
   <!-- Streak (подряд идущие дни активности) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AJoker0&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=AJoker0&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
